@@ -1,0 +1,5 @@
+# Test for error
+I prelude1.inc
+> commit "first"
+No changes added to the commit.
+<<<

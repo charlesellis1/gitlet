@@ -1,0 +1,10 @@
+I prelude1.inc
++ f.txt wug.txt
+> add f.txt
+<<<
+> commit "added soup"
+<<<
++ f.txt wug2.txt
+> checkout -- f.txt
+<<<
+= f.txt wug.txt
